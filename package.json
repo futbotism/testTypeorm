@@ -1,7 +1,7 @@
 {
   "name": "velocity-api",
   "version": "1.0.0",
-  "description": "CrudJS implemented as a REST API, using Nest and Postgres",
+  "description": "API for the velocity app",
   "scripts": {
     "dev": "nodemon --legacy-watch",
     "prestart:prod": "tsc",
@@ -12,15 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crudjs/rest-nestjs-postgres.git"
+    "url": "git@gitlab.com:futbotism/velocity-api.git"
   },
   "keywords": [],
-  "author": "David Guijarro <guijarro.dav@gmail.com>",
   "license": "Apache 2.0",
-  "bugs": {
-    "url": "https://github.com/crudjs/rest-nestjs-postgres/issues"
-  },
-  "homepage": "https://github.com/crudjs/rest-nestjs-postgres#readme",
   "dependencies": {
     "@nestjs/common": "^4.5.9",
     "@nestjs/core": "^4.5.10",

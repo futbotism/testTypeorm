@@ -39,12 +39,12 @@ export class EntriesService {
     }
   }
 
-  async findEntriesByAuthor(authorId: string): Promise<Entry[]> {
-    try {
-      return await this.entryRepository.find({ authorId });
-    } catch (err) {
-      return err;
-    }
-  }
+  // async findEntriesByAuthor(authorId: string): Promise<Entry[]> {
+  //   try {
+  //     return await this.entryRepository.find({ authorId });
+  //   } catch (err) {
+  //     return err;
+  //   }
+  // }
 
 }

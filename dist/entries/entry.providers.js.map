@@ -1,0 +1,1 @@
+{"version":3,"file":"entry.providers.js","sourceRoot":"","sources":["../../src/entries/entry.providers.ts"],"names":[],"mappings":";;AAEA,iDAAuC;AAE1B,QAAA,cAAc,GAAG,CAAC;QAC3B,OAAO,EAAE,sBAAsB;QAC/B,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,oBAAK,CAAC;QACvE,MAAM,EAAE,CAAC,mBAAmB,CAAC;KAChC,CAAC,CAAC"}
